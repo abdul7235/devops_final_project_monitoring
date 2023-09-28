@@ -1,0 +1,1 @@
+FILE_NAME = "received_file.txt"
